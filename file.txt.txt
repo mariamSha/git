@@ -1,7 +1,1 @@
-a
-b
-c
-d
-e
-f
-//change of branch 1
+abc
